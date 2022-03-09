@@ -1,0 +1,42 @@
+body{
+    font-family: 'Redressed', cursive;
+    background-image:url("https://i.pinimg.com/originals/59/d9/ae/59d9ae10f952821c43d7a9fdf562380e.gif");
+    background-size:cover;
+    text-align:center;
+}
+
+.header_div{
+    color:lemonchiffon;
+    background-image: radial-gradient(circle, #9e8cdb, #8d83d1, #7c7ac7, #6b71bc, #5968b2, #4d5da3, #425295, #364887, #2e3972, #252c5d, #1c1e49, #121236);
+}
+
+.header_div p{
+  font-family: 'Lobster', cursive;
+  color:black;
+  letter-spacing:2px;
+  font-size:12px;
+  font-weight:bold;
+}
+
+.main_div button{
+    font-family: 'Redressed', cursive;
+    margin-top: 30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:5px;
+    font-size:22px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:powderblue;
+    bottom:0;
+    width:100%;
+    font-size:20px;
+    background-image: radial-gradient(circle, #9e8cdb, #8d83d1, #7c7ac7, #6b71bc, #5968b2, #4d5da3, #425295, #364887, #2e3972, #252c5d, #1c1e49, #121236);
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px crimson;
+
+
+}
